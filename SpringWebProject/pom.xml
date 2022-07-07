@@ -7,7 +7,7 @@
 
 	<properties>
 		<spring.version>3.2.8.RELEASE</spring.version>
-		<hibernate.version>4.2.0.Final</hibernate.version>
+		<hibernate.version>6.0.23.Final</hibernate.version>
 		<jackson.databind-version>2.2.3</jackson.databind-version>
 	</properties>
 
